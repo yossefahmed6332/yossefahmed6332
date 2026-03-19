@@ -83,7 +83,7 @@
 ---
 
 
-## `// 04 — Competitive Programming`
+## `// 03 — Competitive Programming`
 
 <div align="center">
 
@@ -116,7 +116,7 @@ Mindset   :  One problem at a time.
 
 ---
 
-## `// 05 — Certifications`
+## `// 04 — Certifications`
 
 <div align="center">
 
