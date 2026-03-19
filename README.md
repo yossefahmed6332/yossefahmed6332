@@ -82,21 +82,6 @@
 
 ---
 
-## `// 03 — GitHub Stats`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yossef2260&show_icons=true&theme=github_dark&bg_color=050a0e&border_color=00d4ff&title_color=00d4ff&icon_color=ff6b35&text_color=e0eaf5&hide_border=false&count_private=true"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossef2260&layout=compact&theme=github_dark&bg_color=050a0e&border_color=00d4ff&title_color=00d4ff&text_color=e0eaf5&hide_border=false&langs_count=6"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yossef2260&theme=dark&background=050a0e&border=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=4a6a80" width="70%"/>
-
-</div>
-
----
 
 ## `// 04 — Competitive Programming`
 
@@ -155,15 +140,6 @@ Mindset   :  One problem at a time.
 
 ---
 
-## `// 06 — Activity Graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yossef2260&bg_color=050a0e&color=00d4ff&line=ff6b35&point=ffffff&area=true&area_color=00d4ff&hide_border=false&border_color=00d4ff&radius=4" width="100%"/>
-
-</div>
-
----
 
 <div align="center">
 
