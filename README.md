@@ -25,9 +25,9 @@
 {
   "name"                  : "Yossef Ahmed",
   "role"                  : "Junior Backend Developer",
-  "stack"                 : ["ASP.NET Core", "ASP.NET Identity", "EF Core", "SQL"],
+  "stack"                 : ["ASP.NET Core", "ASP.NET Identity", "EF Core", "SQL Server"],
   "api_style"              : "Controller-based APIs",
-  "database_tool"         : "MySQL Workbench",
+  "database_tool"         : "SQL Server · MySQL Workbench",
   "competitive_programming": true,
   "cf_handle"             : "@yossef2260",
   "location"              : "Alexandria, Egypt 🇪🇬",
@@ -47,7 +47,7 @@
 | 🟣 **ASP.NET Core** | ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ Intermediate | Controller-based APIs |
 | 🔐 **ASP.NET Identity** | ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜ Learning | Auth · Roles · Claims |
 | 🗄️ **EF Core** | ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜ Learning | Migrations · LINQ |
-| 🗄️ **SQL / MySQL** | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ Intermediate | MySQL Workbench |
+| 🗄️ **SQL / SQL Server** | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ Intermediate | SSMS · MySQL Workbench |
 | ⚡ **Algorithms & DS** | ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜ Beginner+ | Codeforces |
 
 </div>
@@ -69,6 +69,7 @@
 <img src="https://img.shields.io/badge/Controller_Based_APIs-00d4ff?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
 <!-- Database -->
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
@@ -86,6 +87,96 @@
 <div align="center">
 
 <a href="https://codeforces.com/profile/yossef2260" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-@yossef2260-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+```
+Platform  :  Codeforces
+Handle    :  @yossef2260
+Focus     :  Problem Solving · Greedy · Arrays · Sorting · BFS/DFS
+Goal      :  Newbie → Pupil → Specialist
+Mindset   :  One problem at a time.
+```
+
+<div align="center">
+
+| Topic | Status |
+|-------|--------|
+| 💡 Problem Solving | ✅ Active |
+| 🔥 Greedy Algorithms | ✅ Practicing |
+| 🌐 Graph Theory | 📖 Learning |
+| ⚡ Dynamic Programming | 📖 Learning |
+
+</div>
+
+---
+
+## `// 04 — Certifications`
+
+<div align="center">
+
+<a href="https://coursera.org/share/a55f4f74042f9c90967594d5e8d103c7" target="_blank">
+  <img src="https://img.shields.io/badge/📚_Java_OOP-Coursera_Verified-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://coursera.org/share/db290fdd31571efef13366cb721f17eb" target="_blank">
+  <img src="https://img.shields.io/badge/📚_SQL_&_Databases-Coursera_Verified-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+> **Java Object-Oriented Programming** — Coursera  
+> Comprehensive coverage of OOP principles, design patterns, and best practices. Foundation for clean object-oriented backend architecture.
+
+> **SQL for Data Science & Backends** — Coursera  
+> Deep dive into relational databases, query optimization, joins, and schema design. Practical work with MySQL Workbench and real-world database scenarios.
+
+<br/>
+
+<div align="center">
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| Learn Object-Oriented Programming in C | Educative | Jun 2026 |
+| Foundational C# with Microsoft | freeCodeCamp | Jun 2026 |
+| Introduction to R: Basic R syntax | Coursera | May 2026 |
+| An Introduction to Logic for Computer Science | University of Leeds | Apr 2026 |
+| Introduction to Databases | Meta | Jan 2026 |
+| Programming for Everybody (Getting Started with Python) | University of Michigan | Jan 2026 |
+| Introduction to Object-Oriented Programming with Java | LearnQuest | Jan 2026 |
+| Introduction to Java | LearnQuest | Dec 2025 |
+| Introduction to Computer Science | IT Legend | 2025 |
+| Algorithm and Problem Solving — Level 1 | IT Legend | Aug 2025 |
+
+</div>
+
+---
+
+## `// 05 — Roadmap`
+
+```
+[ IN PROGRESS ]  🟣  ASP.NET Core Mastery        →  Middleware · DI · Filters · Testing
+[ IN PROGRESS ]  🔐  ASP.NET Identity            →  Auth · Roles · JWT · Claims
+[ IN PROGRESS ]  🗄️  EF Core Deep Dive            →  Migrations · Relationships · Performance
+[   PLANNED   ]  ⚙️  DevOps & CI/CD              →  GitHub Actions · Docker · Cloud
+```
+
+---
+
+<div align="center">
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,50:00d4ff,100:050a0e&height=120&section=footer" width="100%"/>
+
+*Built with purpose · Yossef Ahmed · Alexandria, Egypt 🇪🇬*
+
+</div>
   <img src="https://img.shields.io/badge/Codeforces-@yossef2260-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
